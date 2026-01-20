@@ -6,7 +6,7 @@
   "success_url": "/",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "Put the YASIYA-MD?fT4PGw here.",
       "required": true
     }
   },
